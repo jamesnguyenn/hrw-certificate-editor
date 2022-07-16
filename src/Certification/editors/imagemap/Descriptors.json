@@ -1,0 +1,138 @@
+{
+	"TEXT": [
+		{
+			"name": "Tên nhân viên",
+			"description": "Tên nhân viên",
+			"type": "text",
+			"icon": {
+				"prefix": "fa",
+				"name": "user"
+			},
+			"option": {
+				"type": "textbox",
+				"text": "Tên nhân viên",
+				"width": 150,
+				"height": 30,
+				"fontSize": 24,
+				"name": "Tên nhân viên"
+			}
+		},{
+			"name": "Vị trí công việc",
+			"description": "Vị trí công việc",
+			"type": "text",
+			"icon": {
+				"prefix": "fa",
+				"name": "user-tag"
+			},
+			"option": {
+				"type": "textbox",
+				"text": "Vị trí công việc",
+				"width": 160,
+				"height": 30,
+				"fontSize": 24,
+				"name": "Vị trí công việc"
+			}
+		},{
+			"name": "Mã nhân viên",
+			"description": "userId",
+			"type": "text",
+			"icon": {
+				"prefix": "fa",
+				"name": "id-card"
+			},
+			"option": {
+				"type": "textbox",
+				"text": "Mã nhân viên",
+				"width": 140,
+				"height": 30,
+				"fontSize": 24,
+				"name": "userId"
+			}
+		},
+		{
+			"name": "Đơn vị",
+			"description": "department",
+			"type": "text",
+			"icon": {
+				"prefix": "fa",
+				"name": "users"
+			},
+			"option": {
+				"type": "textbox",
+				"text": "Đơn vị",
+				"width": 80,
+				"height": 30,
+				"fontSize": 24,
+				"name": "department"
+			}
+		},
+		{
+			"name": "Công ty",
+			"description": "company",
+			"type": "text",
+			"icon": {
+				"prefix": "fa",
+				"name": "building"
+			},
+			"option": {
+				"type": "textbox",
+				"text": "Công ty",
+				"width": 80,
+				"height": 30,
+				"fontSize": 24,
+				"name": "company"
+			}
+		},
+		{
+			"name": "Người cấp",
+			"description": "issuerName",
+			"type": "text",
+			"icon": {
+				"prefix": "fa",
+				"name": "id-card"
+			},
+			"option": {
+				"type": "textbox",
+				"text": "Người cấp",
+				"width": 110,
+				"height": 30,
+				"fontSize": 24,
+				"name": "issuerName"
+			}
+		},
+		{
+			"name": "Ngày cấp",
+			"description": "issuedDated",
+			"type": "text",
+			"icon": {
+				"prefix": "fa",
+				"name": "calendar-alt"
+			},
+			"option": {
+				"type": "textbox",
+				"text": "Ngày cấp",
+				"width": 100,
+				"height": 30,
+				"fontSize": 24,
+				"name": "issuedDated",
+				"lockScalingFlip": false
+			}
+		}
+	],
+	"IMAGE": [
+		{
+			"name": "Chữ ký",
+			"description": "",
+			"type": "image",
+			"icon": {
+				"prefix": "fa",
+				"name": "signature"
+			},
+			"option": {
+				"type": "image",
+				"name": "signature",
+				"src": "https://hrw.hstatic.net/35/200001188373/96c0fe3e87844004a5e38e9d77d1957a_medium.png"
+			}
+		}
+	]
+}
